@@ -27,7 +27,7 @@ object project extends ScalaModule with ScalafixModule {
   private var hashLength = 7
           ^^^
 1 targets failed
-mill-git.fix A Scalafix linter error was reported
+project.fix A Scalafix linter error was reported
 ```
 
 ### Scalafix Arguments
